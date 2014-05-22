@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'will_paginate', '~> 3.0'
 gem 'faker'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
